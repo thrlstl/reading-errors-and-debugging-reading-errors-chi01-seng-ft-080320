@@ -1,1 +1,1 @@
-p 1.to_s + "is the loneliest number"
+p 1.to_s + " is the loneliest number"
